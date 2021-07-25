@@ -32,4 +32,5 @@
 
 ## 💪Stats :^)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=thugfuto53&count_private=true&theme=dracula)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=thugfuto53-switchbot-for-mac)
 
