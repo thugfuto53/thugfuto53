@@ -15,3 +15,15 @@
 ## 📫Message ;)
 <a href="mailto:gouyosi.661@gmail.com"><img src="https://img.shields.io/badge/-Email-red"></a>
 <a href="https://steamcommunity.com/profiles/76561198825513273/"><img src="https://img.shields.io/badge/-Steam-blue"></a>
+
+## 💻Enviroment :)
+![Use OS](https://img.shields.io/badge/OS-Windows11%2FLinux-4169e1)
+![Use Browser](https://img.shields.io/badge/Browser-Google%20Chrome%20-ff7f50)
+![Use IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-48d1cc)
+
+## 🤖My Device Links;)
+<a href="https://kakaku.com/item/K0001042156/spec/"><img src="https://img.shields.io/badge/Device-GALLERIA%20ZT-lightgrey"></a>
+<a href="https://gaming.logicool.co.jp/ja-jp/products/gaming-mice/g502-hero-gaming-mouse.910-005866.html"><img src="https://img.shields.io/badge/Mouse-G502-5f9ea0"></a>
+<a href="https://www2.razer.com/jp-jp/gaming-audio/razer-electra-v2-usb"><img src ="https://img.shields.io/badge/Mouse-Razer%20Electra%20V2%20-3cb371"></a>
+<a href="https://gaming.logicool.co.jp/ja-jp/products/gaming-mouse-pads/g440-hard-gaming-mouse-pad.943-000085.html"><img src="https://img.shields.io/badge/MousePad-G440t%20-green"></a>
+
