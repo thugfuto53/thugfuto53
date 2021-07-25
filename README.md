@@ -1,12 +1,7 @@
-### Hi there 👋　I am thugfuto
+# Hi there 👋　I am thugfuto
 
-<!--
-**thugfuto53/thugfuto53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-  - java, c#
-- 📫 How to reach me: ...
--->
+## Links :)
+- Twitter https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fbutikoro_atomu
+- Steam https://steamcommunity.com/profiles/76561198825513273/
+- Gmail gouyosi.661@gmail.com
 
