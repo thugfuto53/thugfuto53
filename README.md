@@ -32,6 +32,6 @@
 
 ## 💪Stats :^)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=thugfuto53&show_icons=true&theme=dracula)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=github-thugfuto53-README.md)](https://github.com/anuraghazra/github-readme-stats)
 
 
