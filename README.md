@@ -10,5 +10,8 @@
 ![YouTube Video Likes and Dislikes](https://img.shields.io/youtube/likes/WV3HNVjGW7I?style=social&withDislikes)
 ![alt text](https://img.shields.io/youtube/channel/subscribers/UCaEHt3owLowHIbOisBi2yhQ?style=social)
 ![YouTube Video Views](https://img.shields.io/youtube/views/WV3HNVjGW7I?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/butikoro_atomu?style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/butikoro_atomu?style=social)
 
+## 📫Message ;)
+<a href="gouyosi.661@gmail.com"><img src="https://img.shields.io/badge/-Email-red"></a>
+<a href="https://steamcommunity.com/profiles/76561198825513273/"><img src="https://img.shields.io/badge/-Steam-blue"></a>
