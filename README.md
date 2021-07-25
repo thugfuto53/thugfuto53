@@ -13,5 +13,5 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/butikoro_atomu?style=social)
 
 ## 📫Message ;)
-<a href="gouyosi.661@gmail.com"><img src="https://img.shields.io/badge/-Email-red"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Email-red"></a>
 <a href="https://steamcommunity.com/profiles/76561198825513273/"><img src="https://img.shields.io/badge/-Steam-blue"></a>
