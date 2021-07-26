@@ -39,5 +39,6 @@
 ## 📌Pinned :-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=thugfuto53)](https://github.com/thugfuto53/thugfuto53)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=java)](https://github.com/thugfuto53/java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=Maysit)](https://github.com/thugfuto53/Maysit)
 
 
