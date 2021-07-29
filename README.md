@@ -21,7 +21,7 @@
 ## 💻Enviroment :D
 ![Use OS](https://img.shields.io/badge/OS-Windows11%2FLinux-4169e1)
 ![Use Browser](https://img.shields.io/badge/Browser-Google%20Chrome%20-ff7f50)
-![Use IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-48d1cc)
+![Use IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code%2FEclipse-48d1cc)
 
 ## 🤖My Device Links :0
 <a href="https://kakaku.com/item/K0001042156/spec/"><img src="https://img.shields.io/badge/Device-GALLERIA%20ZT-lightgrey"></a>
