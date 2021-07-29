@@ -37,7 +37,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thugfuto53"></a>
 
 ## 📌Pinned :-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=Maysit)](https://github.com/thugfuto53/Maysit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=MaysitSwing01)](https://github.com/thugfuto53/MaysitSwing01)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=thugfuto53)](https://github.com/thugfuto53/thugfuto53)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=java)](https://github.com/thugfuto53/java)
 
