@@ -30,7 +30,17 @@
 <a href="https://gaming.logicool.co.jp/ja-jp/products/gaming-mouse-pads/g440-hard-gaming-mouse-pad.943-000085.html"><img src="https://img.shields.io/badge/MousePad-G440t%20-green"></a>
 
 ## 📚Learning :P
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="60"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60">
+  <img src="https://cdn.discordapp.com/attachments/467926613376499727/872167698325458994/gnu_bash-icon.png" width="54">
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
+</div>
 
 ## 💪Stats :^)
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=thugfuto53&show_icons=true&theme=dracula"></a>
