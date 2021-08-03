@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="60">
+  <img src="https://cdn.discordapp.com/attachments/467926613376499727/872167698325458994/gnu_bash-icon.png" width="54">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
