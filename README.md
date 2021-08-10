@@ -47,10 +47,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thugfuto53&theme=dracula"></a>
 
 ## 📌Pinned :-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=MaysitSwing01)](https://github.com/thugfuto53/MaysitSwing01)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=MaysitSwing01-Beta)](https://github.com/thugfuto53/MaysitBeta)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=thugfuto53)](https://github.com/thugfuto53/thugfuto53)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=java)](https://github.com/thugfuto53/java)
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=MaysitSwing01&theme=dracula)](https://github.com/thugfuto53/MaysitSwing01)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=MaysitSwing01-Beta&theme=dracula)](https://github.com/thugfuto53/MaysitBeta)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=thugfuto53&theme=dracula)](https://github.com/thugfuto53/thugfuto53)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=java&theme=dracula)](https://github.com/thugfuto53/java)
