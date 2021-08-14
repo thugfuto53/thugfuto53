@@ -55,3 +55,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=MaysitSwing01-Beta&theme=dracula)](https://github.com/thugfuto53/MaysitBeta)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=thugfuto53&theme=dracula)](https://github.com/thugfuto53/thugfuto53)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=java&theme=dracula)](https://github.com/thugfuto53/java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thugfuto53&repo=java&theme=dracula)](https://github.com/thugfuto53/website)
+
